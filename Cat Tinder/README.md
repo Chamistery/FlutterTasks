@@ -16,10 +16,10 @@ Cat Tinder — приложение для просмотра случайных
 
 ## Скриншоты
 ### Главный экран
-![home page](./Cat\ Tinder/screenshots/home_screen.png)
+![home page](./Cat%20Tinder/screenshots/home_screen.jpg)
 
 ### Описание породы
-![detail page](./Cat\ Tinder/screenshots/details_screen.png)
+![detail page](./Cat%20Tinder/screenshots/details_screen.jpg)
 
 ## Скачать
 [APK для Android](https://github.com/Chamistery/FlutterTasks/releases/tag/Latest)
