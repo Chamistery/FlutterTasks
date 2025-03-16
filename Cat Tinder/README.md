@@ -1,16 +1,45 @@
-# catatinder
+# Cat Tinder App
 
-A new Flutter project.
+## Описание приложения
+Cat Tinder — приложение для просмотра случайных фотографий кошек с указанием их пород. Пользователи могут свайпать вправо, чтобы добавить кота в избранное, или влево, чтобы перейти к следующему. Приложение отображает количество лайков и позволяет изучать подробности о породах. Нажатие на изображение открывает экран с расширенной информацией о выбранной породе.
 
-## Getting Started
+## Реализованные функции
+- Показ случайного изображения кота и названия породы на главном экране.
+- Свайп влево (пропуск) или вправо (лайк) для взаимодействия.
+- Альтернативные кнопки "Лайк" и "Дизлайк" для выбора действия.
+- Автоматическая замена кота после свайпа или нажатия кнопки.
+- Подгрузка следующего кота заранее.
+- Счетчик лайков, обновляемый в реальном времени.
+- Переход к детальной информации о породе при тапе на изображение.
+- Экран с описанием породы: история происхождения, особенности темперамента, внешние характеристики.
+- Возможность просмотра деталей породы из списка избранного.
 
-This project is a starting point for a Flutter application.
+## Скриншоты
+### Главный экран
+![home page](./screenshots/home_screnn.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Описание породы
+![detail page](./screenshots/details_screen.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Скачать
+[APK для Android](https://github.com/Chamistery/FlutterTasks/releases/tag/v1.0.0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Технологии
+- Flutter
+- Dart
+
+## Запуск
+1. Установите Flutter SDK.
+1. Клонируйте репозиторий:
+```
+git clone https://github.com/Chamistery/FlutterTasks.git
+```
+1. Установите зависимости:
+```
+flutter pub get
+```
+1. Запустите Android эмулятор или подключите Android устройство
+1. Запустите приложение:
+```
+flutter run
+```
