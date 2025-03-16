@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.catatinder"
+    namespace = "com.example.CataTinder"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
