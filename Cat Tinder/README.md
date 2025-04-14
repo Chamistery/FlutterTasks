@@ -22,7 +22,7 @@ Cat Tinder — приложение для просмотра случайных
 ![details page](./screenshots/details_screen.jpg)
 
 ## Скачать
-[APK для Android](https://github.com/Chamistery/FlutterTasks/releases/tag/Latest)
+[APK для Android](https://github.com/Chamistery/FlutterTasks/releases/tag/V.1)
 
 ## Технологии
 - Flutter
