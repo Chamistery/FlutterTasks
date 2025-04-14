@@ -30,7 +30,7 @@ Cat Tinder — приложение для просмотра случайных
 
 ## Запуск
 1. Установите Flutter SDK.
-1. Клонируйте репозиторий:
+1. Клонируйте репозиторий  (код обычной версии лежит в папке *Cat Tinder*):
 ```
 git clone https://github.com/Chamistery/FlutterTasks.git
 ```
